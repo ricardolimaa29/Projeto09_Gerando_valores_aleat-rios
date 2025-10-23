@@ -1,6 +1,6 @@
 # Projeto09_Gerando_valores_aleat-rios
 
-# 🐼 Exercícios de Pandas + Random (Com Resolução)
+# 🐼 Exercícios de Pandas + Random
 
 Esses exercícios unem as bibliotecas **pandas** e **random**, simulando situações do mundo real com geração de dados aleatórios.  
 Os desafios são básicos, mas ajudam bastante a treinar raciocínio lógico e manipulação de dados com DataFrames.
